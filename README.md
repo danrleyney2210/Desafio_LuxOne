@@ -1,4 +1,4 @@
-# Desafio-LuxOne
+# desafio-luxone
 
 ## Build Setup
 
