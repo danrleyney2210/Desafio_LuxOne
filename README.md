@@ -24,3 +24,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 #Heroku 
 https://desafio-luxone.herokuapp.com/
 
+#Interface
+
+![img1](https://github.com/danrleyney2210/Desafio_LuxOne/blob/main/assets/img/print1.jpg)
+
+![img2](https://github.com/danrleyney2210/Desafio_LuxOne/blob/main/assets/img/print2.jpg)
+
+![img2](https://github.com/danrleyney2210/Desafio_LuxOne/blob/main/assets/img/print3.jpg)
+
