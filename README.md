@@ -1,5 +1,5 @@
 # desafio-luxone
-
+Challenge made for LuxOne company for front-end developer vacancy
 ## Build Setup
 
 ```bash
